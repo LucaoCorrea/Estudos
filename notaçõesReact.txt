@@ -1,0 +1,10 @@
+React éuma biblioteca JS para Front-end (criação de interfaces);
+Single Page Application (Páginas com sem mudanças de contexto);
+Utilizamos JSX para ser renderizado com HTML;
+É preciso instalá-lo na máquina (create-react-app).
+
+O curso https://www.youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO
+promete criar formulário, Quiz, projetos com React entre outros...
+
+Aula 01- Assistida;
+Aula 02 - Pendência.
