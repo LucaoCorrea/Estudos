@@ -8,7 +8,15 @@ JSX é a principal maneira de escrever HTML com o React;
 Props são valores passados para componentes, deixando dinâmicos;
 O CSS no React pode ser adicionado de forma global, porém é possível 
 estilizar cada componente;
-Utilizamos o CSS Modules, basta criar Componente.module.css.
+Utilizamos o CSS Modules, basta criar Componente.module.css;
+React Fragments permite criar um componente sem elemento pai;
+Descomplica os nós do DOM;
+Sintaxe é <> </>, sem nome para tag e criamos diretamente no JSX;
+Eventos no React são os mesmos eventos do DOM;
+O evento é atrelado a uma tag que irá executá-lo;
+useState é um hook do React, conseguimos manusear o estado,
+funciona bem com eventos, 
+podemos atrelar a um evento com mudança de state.
 
 O curso https://www.youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO
 promete criar formulário, Quiz, projetos com React entre outros...
@@ -20,8 +28,13 @@ Aula 03 - Assistida;
 Aula 04 - Assistida;
 Aula 05 - Assistida;
 Aula 06 - Assistida;
-Aula 07 - Pendente;
-Aula 08 - Pendente;
-Aula 09 - Pendente;
-Aula 10 - Pendente.
+Aula 07 - Assistida;
+Aula 08 - Assistida;
+Aula 09 - Assistida;
+Aula 10 - Pendente;
+Aula 11 - Pendente;
+Aula 12 - Pendente;
+Aula 13 - Pendente;
+Aula 14 - Pendente;
+Aula 15 - Pendente.
 */
