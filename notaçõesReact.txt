@@ -1,10 +1,27 @@
 React éuma biblioteca JS para Front-end (criação de interfaces);
 Single Page Application (Páginas com sem mudanças de contexto);
 Utilizamos JSX para ser renderizado com HTML;
-É preciso instalá-lo na máquina (create-react-app).
+É preciso instalá-lo na máquina (create-react-app);
+JSX é como um HTML, porém dentro de um code JS 
+e podemos interpolar variáveis;
+JSX é a principal maneira de escrever HTML com o React;
+Props são valores passados para componentes, deixando dinâmicos;
+O CSS no React pode ser adicionado de forma global, porém é possível 
+estilizar cada componente;
+Utilizamos o CSS Modules, basta criar Componente.module.css.
 
 O curso https://www.youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO
 promete criar formulário, Quiz, projetos com React entre outros...
 
+/*Lucas Corrêa
 Aula 01- Assistida;
-Aula 02 - Pendência.
+Aula 02 - Assistida;
+Aula 03 - Assistida;
+Aula 04 - Assistida;
+Aula 05 - Assistida;
+Aula 06 - Assistida;
+Aula 07 - Pendente;
+Aula 08 - Pendente;
+Aula 09 - Pendente;
+Aula 10 - Pendente.
+*/
