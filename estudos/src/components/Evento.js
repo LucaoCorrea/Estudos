@@ -6,6 +6,7 @@ function Evento({ numero }) {
   return (
     <div>
       <p>Clique para disparar um evento</p>
+      <button text="Primeiro Evento"/>
       <button onClick={meuEvento}>Ativar!</button>
     </div>
   )
