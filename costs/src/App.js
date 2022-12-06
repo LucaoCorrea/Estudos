@@ -3,11 +3,12 @@ import Home from "./components/pages/Home";
 import Contact from "./components/pages/Contact";
 import Company from "./components/pages/Company";
 import NewProject from "./components/pages/NewProject";
-
+import Projects from "./components/pages/Projects";
 
 import Container from "./components/layout/Container";
 import Navbar from './components/layout/Navbar';
-import Footer from './components/layout/Footer'
+import Footer from './components/layout/Footer';
+
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
             <Route path="/" exact="true" element={<Home />}></Route>
             <Route path="/company" exact="true" element={<Company />}></Route>
             <Route path="/contact" exact="true" element={<Contact />}></Route>
+            <Route path="/projects" exact="true" element={<Projects />}></Route>
             <Route
               path="/newproject"
               exact="true"
@@ -26,7 +28,7 @@ function App() {
             ></Route>
           </Routes>
         </Container>
-        <p>Footer</p>
+        <Footer/>
       </Router>
     </div>
   );
