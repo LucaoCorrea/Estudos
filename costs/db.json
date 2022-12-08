@@ -1,27 +1,5 @@
 {
-  "projects": [
-    {
-      "name": "teste",
-      "budget": "1",
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
-      "name": "teste",
-      "budget": "234",
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
-      "name": "teste",
-      "budget": "234",
-      "cost": 0,
-      "services": [],
-      "id": 3
-    }
-  ],
+  "projects": [],
   "categories": [
     {
       "id": 1,
