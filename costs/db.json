@@ -2,17 +2,24 @@
   "projects": [
     {
       "name": "teste",
-      "budget": "3232323",
+      "budget": "1",
       "cost": 0,
       "services": [],
       "id": 1
     },
     {
       "name": "teste",
-      "budget": "333333",
+      "budget": "234",
       "cost": 0,
       "services": [],
       "id": 2
+    },
+    {
+      "name": "teste",
+      "budget": "234",
+      "cost": 0,
+      "services": [],
+      "id": 3
     }
   ],
   "categories": [
